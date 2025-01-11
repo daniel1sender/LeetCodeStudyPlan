@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0169-majority-element) |
+| [1524-string-matching-in-an-array](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/1524-string-matching-in-an-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
@@ -44,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/1524-string-matching-in-an-array) |
+## String Matching
+|  |
+| ------- |
+| [1524-string-matching-in-an-array](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/1524-string-matching-in-an-array) |
 <!---LeetCode Topics End-->
