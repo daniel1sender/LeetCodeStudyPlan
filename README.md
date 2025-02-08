@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0169-majority-element) |
 | [1524-string-matching-in-an-array](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/1524-string-matching-in-an-array) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
@@ -58,4 +59,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
