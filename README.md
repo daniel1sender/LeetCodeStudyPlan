@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0066-plus-one) |
+| [0172-factorial-trailing-zeroes](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0172-factorial-trailing-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
