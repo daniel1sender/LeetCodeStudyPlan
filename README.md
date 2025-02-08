@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0172-factorial-trailing-zeroes) |
 ## Two Pointers
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/daniel1sender/LeetCodeStudyPlan/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
